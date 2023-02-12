@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
 
 :root {
-  --primary-color: #f97316;
+  --primary-color: #c026d3;
   --off-white: #f3f4f6;
   --dark-gray: #6b7280;
 }
@@ -112,8 +112,8 @@ hr {
 }
 
 .hero .hero-img {
-  max-width: 80%;
-  width: 550px;
+  max: width 50px;;
+  width: 750px;
   display: block;
   margin: auto;
 }
@@ -188,6 +188,7 @@ hr {
 
 .showcase-blog {
   padding-bottom: 6rem;
+
 }
 
 @media (max-width: 900px) {
